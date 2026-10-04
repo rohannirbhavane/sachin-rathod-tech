@@ -178,10 +178,12 @@ A Netflix-inspired application with movie browsing and streaming features.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
-## 📈 Contribution Graph
+# 📊 GitHub Stats
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-rathod-tech&theme=github-compact)](https://github.com/sachin-rathod-tech)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-rathod-tech&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-rathod-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
