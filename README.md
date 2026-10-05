@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=SACHIN%20RATHOD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=ROHAN%20NIRBHAVANE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 <h3 align="center">
 <p align="center">
